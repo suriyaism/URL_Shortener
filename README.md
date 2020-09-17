@@ -7,11 +7,13 @@ This project is intended for implementing a URL Shortener with Flask Framework
 2. Go to the project folder in Terminal.
 3. Run the following command
 
-        * docker-compose build url-shortener
-        * docker-compose up
+        * make build
+        * make start
         
 4. After the docker spun up, the API will be running on the Docker environment.
+5. To run the unit testcases
 
+        * make test
 
 ## Libraries Used ##
 
@@ -123,8 +125,10 @@ This project is intended for implementing a URL Shortener with Flask Framework
 
 ![Screenshot](screenshots/1.png)
 
-
-
+## Todo ##
+- Caching
+- Test Coverage
+- Production run code with gunicorn
 
 ## Distribution ##
 - A git repository
