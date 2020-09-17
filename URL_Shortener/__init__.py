@@ -39,10 +39,10 @@ def shortener():
 
     # Validate the input
     validate = [
-                {'field_name': 'long_url', 'func': validate_mandatory_fields, 'field_val': long_url},
-                {'field_name': 'long_url', 'func': validate_url, 'field_val': long_url},
-                {'field_name': 'long_url', 'func': url_existence, 'field_val': long_url},
-                ]
+        {'field_name': 'long_url', 'func': validate_mandatory_fields, 'field_val': long_url},
+        {'field_name': 'long_url', 'func': validate_url, 'field_val': long_url},
+        {'field_name': 'long_url', 'func': url_existence, 'field_val': long_url},
+    ]
     result = error_calculator(validate)
 
     # Shortening the URL based on the validations
@@ -66,7 +66,14 @@ def redirect_url(short_url):
     short = Shortener.query.filter_by(short_url=short_url).first()
     # 404 found if short url is None
     if short is None:
-        return render_template('404.html')
+        response_output = json_response(message="Error",
+                                        data="Page Not Found or Invalid URL provided, "
+                                             "please enter the valid short url from the list "
+                                             "(http://127.0.0.1:" + str(application.config['PORT']) + "/shortener/list) "
+                                             "or check the documentation "
+                                             "(http://127.0.0.1:" + str(application.config['PORT']) + "/)",
+                                        status=404)
+        return response_output
     # Incrementing the hits count and updating the database
     short.hits += 1
     db.session.commit()
@@ -85,7 +92,6 @@ def urls_list():
                                     status=200)
     return response_output
 
-
-#if __name__ == "__main__":
+# if __name__ == "__main__":
 #    db.create_all()
 #    application.run(host=HOST, port=PORT, threaded=True)

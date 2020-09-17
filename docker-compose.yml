@@ -1,13 +1,13 @@
 version: '2'
 
 services:
-  Suriya:
+  url-shortener:
     build: .
-    image: python
+    image: python-3.7.3
     volumes:
       - .:/usr/src/app
     ports:
-      - "5050:5000"
+      - "5001:5000"
     environment:
       APP_CONFIG_FILE: /usr/src/app/config/development.py
     working_dir: /usr/src/app
