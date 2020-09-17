@@ -24,7 +24,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="850d56ca-e219-49b1-bb27-0592e44eeaec" name="Default Changelist" comment="" />
+    <list default="true" id="850d56ca-e219-49b1-bb27-0592e44eeaec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -188,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600381179150</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Change in .gitignore">
+      <created>1600381563967</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1600381563967</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,10 +226,11 @@
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="408" y="169" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.808@0.23.1440.808" timestamp="1600344779655" />
-    <state x="332" y="45" width="775" height="812" key="CommitChangelistDialog2" timestamp="1600381178958">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state x="332" y="23" width="775" height="806" key="CommitChangelistDialog2" timestamp="1600381563779">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state x="332" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1600380878331" />
+    <state x="332" y="23" width="775" height="806" key="CommitChangelistDialog2/0.23.1440.806@0.23.1440.806" timestamp="1600381563779" />
     <state x="332" y="45" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1600381178958" />
     <state x="332" y="23" width="775" height="812" key="CommitChangelistDialog2/0.23.1440.812@0.23.1440.812" timestamp="1600380094204" />
     <state x="583" y="354" key="Github.ShareDialog" timestamp="1600380779547">
@@ -263,11 +273,11 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1600375797745" />
-    <state x="320" y="194" key="Vcs.Push.Dialog.v2" timestamp="1600381463678">
+    <state x="320" y="194" key="Vcs.Push.Dialog.v2" timestamp="1600381608872">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1600380870288" />
-    <state x="320" y="194" key="Vcs.Push.Dialog.v2/0.23.1440.806@0.23.1440.806" timestamp="1600381463678" />
+    <state x="320" y="194" key="Vcs.Push.Dialog.v2/0.23.1440.806@0.23.1440.806" timestamp="1600381608872" />
     <state x="320" y="194" key="Vcs.Push.Dialog.v2/0.23.1440.808@0.23.1440.808" timestamp="1600381164031" />
     <state x="533" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600352740097">
       <screen x="0" y="0" width="1440" height="900" />
