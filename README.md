@@ -26,7 +26,7 @@ This project is intended for implementing a URL Shortener with Flask Framework
 
 **Response**
 
-![Screenshot](Screenshots/0.PNG)
+![Screenshot](Screenshots/0.png)
 
 ####2. Adding the URL
 **Definition**
