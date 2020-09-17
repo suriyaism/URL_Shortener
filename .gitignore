@@ -1,6 +1,7 @@
 # Cache files
 __pycache__
 *.pyc
+*.log
 
 # User specific files
 instance/
