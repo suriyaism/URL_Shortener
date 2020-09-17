@@ -1,0 +1,13 @@
+version: '2'
+
+services:
+  Suriya:
+    build: .
+    image: python
+    volumes:
+      - .:/usr/src/app
+    ports:
+      - "5050:5000"
+    environment:
+      APP_CONFIG_FILE: /usr/src/app/config/development.py
+    working_dir: /usr/src/app
