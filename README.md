@@ -59,7 +59,7 @@ This project is intended for implementing a URL Shortener with Flask Framework
 }
 ```
 
-#### 3. List the Shortened URL ####
+#### 3. List the Shortened URL with some statistics ####
 **Definition**
 
 `GET /shortener/list`
