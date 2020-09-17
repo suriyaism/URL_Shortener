@@ -42,6 +42,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1haarPnlzYZyl1FNfUmm8FifsxZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -212,7 +213,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600382492785</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Change in .gitignore">
+      <created>1600382675863</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1600382675863</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Change in .gitignore">
+      <created>1600382888128</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1600382888128</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
