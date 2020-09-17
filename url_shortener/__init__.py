@@ -32,7 +32,7 @@ def shortener():
         response_output = json_response(message="Error",
                                         data="Check or pass the correct input with a proper key",
                                         status=500)
-        return response_output
+        return response_output, 500
 
     # Storing long URL
     long_url = payload.get('long_url')
@@ -50,6 +50,8 @@ def shortener():
         response_output = json_response(message="Error",
                                         data=result,
                                         status=400)
+
+        return response_output, 400
     else:
         # Adding the payload into the database
         url_shortener = Shortener.create_short_url(long_url=long_url)
@@ -57,7 +59,7 @@ def shortener():
         response_output = json_response(message=long_url,
                                         data=output_url,
                                         status=200)
-    return response_output
+        return response_output
 
 
 @application.route("/<short_url>", methods=["GET"])
@@ -73,7 +75,7 @@ def redirect_url(short_url):
                                              "or check the documentation "
                                              "(http://127.0.0.1:" + str(application.config['PORT']) + "/)",
                                         status=404)
-        return response_output
+        return response_output, 404
     # Incrementing the hits count and updating the database
     short.hits += 1
     db.session.commit()

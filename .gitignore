@@ -1,3 +1,15 @@
-# Project exclude paths
-/venv/
-/.idea/
+# Cache files
+__pycache__
+*.pyc
+
+# User specific files
+instance/
+logs/
+venv/
+
+# Python files
+*.pyo
+env
+
+# App files
+Test_Database.db

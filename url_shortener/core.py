@@ -11,5 +11,4 @@ application.config.from_object('config.development')
 # Variables defined here will override those in the default configuration
 application.config.from_envvar('APP_CONFIG_FILE')
 
-
 db = SQLAlchemy(application)
