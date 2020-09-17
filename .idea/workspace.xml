@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="850d56ca-e219-49b1-bb27-0592e44eeaec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1haarPnlzYZyl1FNfUmm8FifsxZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests" />
+      <recent name="$PROJECT_DIR$/config" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for test_shorten_url.TestShortener.test_invalid_url_shortener">
+    <configuration name="Unittests for test_shorten_url.TestShortener" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="URL_Shortener" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_shorten_url.TestShortener&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_shorten_url.TestShortener.test_invalid_url_shortener" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="URL_Shortener" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_shorten_url.TestShortener.test_invalid_url_shortener&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_shorten_url.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="URL_Shortener" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_shorten_url.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test_shorten_url.TestShortener.test_invalid_url_shortener" />
+        <item itemvalue="Python tests.Unittests for test_shorten_url.TestShortener" />
+        <item itemvalue="Python tests.Unittests in test_shorten_url.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="850d56ca-e219-49b1-bb27-0592e44eeaec" name="Default Changelist" comment="" />
+      <created>1600251857590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600251857590</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Change in README.md">
+      <created>1600337159652</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600337159652</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Change in README.md">
+      <created>1600352105482</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600352105482</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Change in README.md">
+      <created>1600352249642</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600352249642</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Change in .gitignore">
+      <created>1600352465254</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600352465254</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Change in .gitignore">
+      <created>1600352993022</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600352993022</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Change in .gitignore">
+      <created>1600353443021</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600353443021</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Change in .gitignore">
+      <created>1600380027881</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1600380027881</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Change in .gitignore">
+      <created>1600380094367</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1600380094367</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Change in .gitignore">
+      <created>1600380878565</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1600380878565</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Change in .gitignore">
+      <created>1600381179150</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1600381179150</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Change in README.md" />
+    <MESSAGE value="Change in .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change in .gitignore" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="470" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600271484843">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="470" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1600271484843" />
+    <state x="408" y="169" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600344779655">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="408" y="169" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.808@0.23.1440.808" timestamp="1600344779655" />
+    <state x="332" y="45" width="775" height="812" key="CommitChangelistDialog2" timestamp="1600381178958">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="332" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1600380878331" />
+    <state x="332" y="45" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1600381178958" />
+    <state x="332" y="23" width="775" height="812" key="CommitChangelistDialog2/0.23.1440.812@0.23.1440.812" timestamp="1600380094204" />
+    <state x="583" y="354" key="Github.ShareDialog" timestamp="1600380779547">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="583" y="354" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1600380779547" />
+    <state x="478" y="162" key="Github.UntrackedFilesDialog" timestamp="1600334855017">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="478" y="162" key="Github.UntrackedFilesDialog/0.0.1440.900@0.0.1440.900" timestamp="1600334855017" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1600380253520">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600380253520" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1600380253517">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600380253517" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1600380253516">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600380253516" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1600380253519">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600380253519" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1600375797746">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600375797746" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1600375797744">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1600375797744" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1600375797744">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1600375797743" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1600375797745">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1600375797745" />
+    <state x="320" y="194" key="Vcs.Push.Dialog.v2" timestamp="1600381463678">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1600380870288" />
+    <state x="320" y="194" key="Vcs.Push.Dialog.v2/0.23.1440.806@0.23.1440.806" timestamp="1600381463678" />
+    <state x="320" y="194" key="Vcs.Push.Dialog.v2/0.23.1440.808@0.23.1440.808" timestamp="1600381164031" />
+    <state x="533" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600352740097">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1600352740097" />
+    <state x="282" y="186" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1600375794848">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="282" y="186" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.900@0.0.1440.900" timestamp="1600375794848" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1600376807194">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1600376807194" />
+  </component>
+</project>

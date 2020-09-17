@@ -1,0 +1,45 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># URL Shortener Implementation #\nThis project is intended for implementing a URL Shortener with Flask Framework\n\n\n## How do you get set up? ##\n1. Download this project or clone the repository.\n2. Go to the project folder in Terminal.\n3. Run the following command\n\n        * docker-compose build url-shortener\n        * docker-compose up\n        \n4. After the docker spun up, the API will be running on the Docker environment.\n\n\n## Libraries Used ##\n\n- Check `requirements.txt`\n\n## Deliverable Content ##\n\n####1. Index or Homepage\n**Definition**\n\n`GET /`\n\n**Response**\n\n![Screenshot](Screenshots/0.png)\n\n####2. Adding the URL\n**Definition**\n\n`POST /shortener/<long_url>`\n\n**Arguments**\n\n- `\"long_url\":string` input long url for the shortening\n\n**Response**\n\n- 400: Invalid Input Data of URL\n- 500: URL already shortened\n- 200: Success\n\n```json\n{\n  \"body\": {\n    \"message\": \"http://www.linkedin.com\",\n    \"response_output\": \"https://tier.app/dS0LmRt\",\n    \"status\": 200\n  },\n  \"headers\": {\n    \"Access-Control-Allow-Credentials\": \"True\",\n    \"Access-Control-Allow-Origin\": \"*\",\n    \"Content-Type\": \"application/json\"\n  },\n  \"statusCode\": 200\n}\n```\n\n####3. List the Shortened URL\n**Definition**\n\n`GET /shortener/list`\n\n**Response**\n\n- 200: Success\n\n```json\n{\n  \"body\": {\n    \"message\": \"List of URL Shortener\",\n    \"response_output\": [\n      {\n        \"date_Created\": \"Thu, 17 Sep 2020 09:58:35 GMT\",\n        \"hits\": 4,\n        \"id\": 1,\n        \"long_url\": \"http://www.google.com\",\n        \"short_url\": \"lViANht\"\n      },\n      {\n        \"date_Created\": \"Thu, 17 Sep 2020 12:52:59 GMT\",\n        \"hits\": 0,\n        \"id\": 2,\n        \"long_url\": \"http://www.youtube.com\",\n        \"short_url\": \"8mLtIR0\"\n      },\n      {\n        \"date_Created\": \"Thu, 17 Sep 2020 12:59:32 GMT\",\n        \"hits\": 0,\n        \"id\": 3,\n        \"long_url\": \"http://www.linkedin.com\",\n        \"short_url\": \"dS0LmRt\"\n      }\n    ],\n    \"status\": 200\n  },\n  \"headers\": {\n    \"Access-Control-Allow-Credentials\": \"True\",\n    \"Access-Control-Allow-Origin\": \"*\",\n    \"Content-Type\": \"application/json\"\n  },\n  \"statusCode\": 200\n}\n```\n\n####2. Redirection to the long URL from short url\n**Definition**\n\n`GET /<short_url>`\n\n**Arguments**\n\n- `\"short_url\":string` input short url for the redirection\n\n**Response**\n\n- 404: Invalid Input of Short URL or Page Not Found\n\n**Output**\n\n![Screenshot](Screenshots/1.png)\n\n\n\n\n## Distribution ##\n- A git repository\n- A postman collection: https://www.postman.com/collections/880333e810dd4ade690b\n\n\n## Contribution guidelines ##\n- Forks are always appreciated\n\n\n\n\n \n         \n      \n 
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- README.md	(revision d7c1b051b7fb6720a35fcbafa0a22ba3d2456732)
++++ README.md	(date 1600352825744)
+@@ -19,7 +19,7 @@
+ 
+ ## Deliverable Content ##
+ 
+-####1. Index or Homepage
++#### 1. Index or Homepage ####
+ **Definition**
+ 
+ `GET /`
+@@ -28,7 +28,7 @@
+ 
+ ![Screenshot](Screenshots/0.png)
+ 
+-####2. Adding the URL
++#### 2. Adding the URL ####
+ **Definition**
+ 
+ `POST /shortener/<long_url>`
+@@ -59,7 +59,7 @@
+ }
+ ```
+ 
+-####3. List the Shortened URL
++#### 3. List the Shortened URL ####
+ **Definition**
+ 
+ `GET /shortener/list`
+@@ -106,7 +106,7 @@
+ }
+ ```
+ 
+-####2. Redirection to the long URL from short url
++#### 4. Redirection to the long URL from short url ####
+ **Definition**
+ 
+ `GET /<short_url>`
