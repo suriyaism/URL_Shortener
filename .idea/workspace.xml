@@ -37,6 +37,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="master" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -238,18 +241,18 @@
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="408" y="169" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.808@0.23.1440.808" timestamp="1600344779655" />
-    <state x="332" y="23" width="775" height="806" key="CommitChangelistDialog2" timestamp="1600381681544">
+    <state x="332" y="23" width="775" height="806" key="CommitChangelistDialog2" timestamp="1600382675628">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state x="332" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1600380878331" />
-    <state x="332" y="23" width="775" height="806" key="CommitChangelistDialog2/0.23.1440.806@0.23.1440.806" timestamp="1600381681544" />
+    <state x="332" y="23" width="775" height="806" key="CommitChangelistDialog2/0.23.1440.806@0.23.1440.806" timestamp="1600382675628" />
     <state x="332" y="45" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1600381178958" />
     <state x="332" y="23" width="775" height="812" key="CommitChangelistDialog2/0.23.1440.812@0.23.1440.812" timestamp="1600380094204" />
-    <state x="583" y="341" key="Github.ShareDialog" timestamp="1600382286024">
+    <state x="583" y="341" key="Github.ShareDialog" timestamp="1600382420883">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="583" y="354" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1600380779547" />
-    <state x="583" y="341" key="Github.ShareDialog/0.23.1440.808@0.23.1440.808" timestamp="1600382286024" />
+    <state x="583" y="341" key="Github.ShareDialog/0.23.1440.808@0.23.1440.808" timestamp="1600382420883" />
     <state x="478" y="162" key="Github.UntrackedFilesDialog" timestamp="1600334855017">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -286,12 +289,12 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1600375797745" />
-    <state x="320" y="194" key="Vcs.Push.Dialog.v2" timestamp="1600382076952">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state x="320" y="194" key="Vcs.Push.Dialog.v2" timestamp="1600382666589">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1600380870288" />
-    <state x="320" y="194" key="Vcs.Push.Dialog.v2/0.23.1440.806@0.23.1440.806" timestamp="1600381723292" />
-    <state x="320" y="194" key="Vcs.Push.Dialog.v2/0.23.1440.808@0.23.1440.808" timestamp="1600382076952" />
+    <state x="320" y="194" key="Vcs.Push.Dialog.v2/0.23.1440.806@0.23.1440.806" timestamp="1600382666589" />
+    <state x="320" y="194" key="Vcs.Push.Dialog.v2/0.23.1440.808@0.23.1440.808" timestamp="1600382426186" />
     <state x="533" y="355" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600382388084">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
