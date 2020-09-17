@@ -33,7 +33,7 @@ class TestShortener(unittest.TestCase):
         self.assertEqual(400, response.status_code)
 
     def test_url_shortener(self):
-        """Test that addi   ng an input long url and then getting a short url."""
+        """Test that adding an input long url and then getting a short url."""
         payload = {
             'long_url': 'http://google.com'
             }

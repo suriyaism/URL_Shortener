@@ -24,7 +24,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="850d56ca-e219-49b1-bb27-0592e44eeaec" name="Default Changelist" comment="" />
+    <list default="true" id="850d56ca-e219-49b1-bb27-0592e44eeaec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/tests/test_shorten_url.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_shorten_url.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -227,7 +229,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600382888128</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Change in .gitignore">
+      <created>1600383042140</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1600383042140</updated>
+    </task>
+    <task id="LOCAL-00017" summary="NA">
+      <created>1600383075930</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1600383075930</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -245,7 +261,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Change in README.md" />
     <MESSAGE value="Change in .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change in .gitignore" />
+    <MESSAGE value="NA" />
+    <option name="LAST_COMMIT_MESSAGE" value="NA" />
   </component>
   <component name="WindowStateProjectService">
     <state x="470" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600271484843">
@@ -256,17 +273,18 @@
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="408" y="169" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.808@0.23.1440.808" timestamp="1600344779655" />
-    <state x="332" y="23" width="775" height="806" key="CommitChangelistDialog2" timestamp="1600382675628">
+    <state x="332" y="23" width="775" height="806" key="CommitChangelistDialog2" timestamp="1600383075752">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state x="332" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1600380878331" />
-    <state x="332" y="23" width="775" height="806" key="CommitChangelistDialog2/0.23.1440.806@0.23.1440.806" timestamp="1600382675628" />
-    <state x="332" y="45" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1600381178958" />
+    <state x="332" y="23" width="775" height="806" key="CommitChangelistDialog2/0.23.1440.806@0.23.1440.806" timestamp="1600383075752" />
+    <state x="332" y="23" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1600383041897" />
     <state x="332" y="23" width="775" height="812" key="CommitChangelistDialog2/0.23.1440.812@0.23.1440.812" timestamp="1600380094204" />
-    <state x="583" y="341" key="Github.ShareDialog" timestamp="1600382420883">
-      <screen x="0" y="23" width="1440" height="808" />
+    <state x="583" y="340" key="Github.ShareDialog" timestamp="1600382968766">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state x="583" y="354" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1600380779547" />
+    <state x="583" y="340" key="Github.ShareDialog/0.23.1440.806@0.23.1440.806" timestamp="1600382968766" />
     <state x="583" y="341" key="Github.ShareDialog/0.23.1440.808@0.23.1440.808" timestamp="1600382420883" />
     <state x="478" y="162" key="Github.UntrackedFilesDialog" timestamp="1600334855017">
       <screen x="0" y="0" width="1440" height="900" />
@@ -304,12 +322,16 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1600375797745" />
-    <state x="320" y="194" key="Vcs.Push.Dialog.v2" timestamp="1600382666589">
-      <screen x="0" y="23" width="1440" height="806" />
+    <state x="361" y="194" key="MultipleFileMergeDialog" timestamp="1600383025013">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="361" y="194" key="MultipleFileMergeDialog/0.23.1440.808@0.23.1440.808" timestamp="1600383025013" />
+    <state x="320" y="194" key="Vcs.Push.Dialog.v2" timestamp="1600383014794">
+      <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1600380870288" />
-    <state x="320" y="194" key="Vcs.Push.Dialog.v2/0.23.1440.806@0.23.1440.806" timestamp="1600382666589" />
-    <state x="320" y="194" key="Vcs.Push.Dialog.v2/0.23.1440.808@0.23.1440.808" timestamp="1600382426186" />
+    <state x="320" y="194" key="Vcs.Push.Dialog.v2/0.23.1440.806@0.23.1440.806" timestamp="1600382977337" />
+    <state x="320" y="194" key="Vcs.Push.Dialog.v2/0.23.1440.808@0.23.1440.808" timestamp="1600383014794" />
     <state x="533" y="355" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600382388084">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
