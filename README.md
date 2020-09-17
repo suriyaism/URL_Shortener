@@ -39,7 +39,7 @@ This project is intended for implementing a URL Shortener with Flask Framework
 
 
 
- 
+ https://www.getpostman.com/collections/880333e810dd4ade690b
          
       
  
