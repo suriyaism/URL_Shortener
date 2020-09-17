@@ -5,7 +5,7 @@ the logs
 import logging
 
 # Log the logs
-logging.basicConfig(filename='URL_Shortener.log')
+logging.basicConfig(filename='url_shortener.log')
 
 
 def get_logger():

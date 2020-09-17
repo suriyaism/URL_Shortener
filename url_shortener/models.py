@@ -1,4 +1,4 @@
-from URL_Shortener.core import db
+from url_shortener.core import db
 import random
 
 

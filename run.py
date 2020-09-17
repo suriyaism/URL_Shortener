@@ -1,4 +1,4 @@
-from URL_Shortener import application, db
+from url_shortener import application, db
 
 
 db.create_all()

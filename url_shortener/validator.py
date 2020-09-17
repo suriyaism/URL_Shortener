@@ -1,6 +1,6 @@
 import re
 from collections import defaultdict
-from URL_Shortener.models import Shortener
+from url_shortener.models import Shortener
 
 # Using re.compile() is more efficient when the expression will be used several times
 URL_REGEX_PATTERN = re.compile(r'^https?://'  # http:// or https://

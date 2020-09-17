@@ -1,10 +1,10 @@
 import os
 import markdown
 from flask import Flask, Markup, render_template, request, redirect
-from URL_Shortener.validator import validate_url, url_existence, error_calculator, validate_mandatory_fields
-from URL_Shortener.utils import json_response
-from URL_Shortener.models import Shortener
-from URL_Shortener.core import application, db
+from url_shortener.validator import validate_url, url_existence, error_calculator, validate_mandatory_fields
+from url_shortener.utils import json_response
+from url_shortener.models import Shortener
+from url_shortener.core import application, db
 
 
 @application.route("/", methods=["GET"])
