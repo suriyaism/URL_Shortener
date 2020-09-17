@@ -19,7 +19,7 @@ This project is intended for implementing a URL Shortener with Flask Framework
 
 ## Deliverable Content ##
 
-####1. Index or Homepage
+#### 1. Index or Homepage ####
 **Definition**
 
 `GET /`
@@ -28,7 +28,7 @@ This project is intended for implementing a URL Shortener with Flask Framework
 
 ![Screenshot](Screenshots/0.png)
 
-####2. Adding the URL
+#### 2. Adding the URL ####
 **Definition**
 
 `POST /shortener/<long_url>`
@@ -59,7 +59,7 @@ This project is intended for implementing a URL Shortener with Flask Framework
 }
 ```
 
-####3. List the Shortened URL
+#### 3. List the Shortened URL ####
 **Definition**
 
 `GET /shortener/list`
@@ -106,7 +106,7 @@ This project is intended for implementing a URL Shortener with Flask Framework
 }
 ```
 
-####2. Redirection to the long URL from short url
+#### 4. Redirection to the long URL from short url ####
 **Definition**
 
 `GET /<short_url>`
